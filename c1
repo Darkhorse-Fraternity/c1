@@ -1,0 +1,12 @@
+//main.c
+//Ex1_01
+//Creted by Mr.lin
+
+
+#include<stdio.h>
+
+int main(int argc,const char *argv[])
+{
+      printf("Hello World!");
+      return  0;
+}
